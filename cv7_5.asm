@@ -1,6 +1,6 @@
 %include "rw32-2018.inc"
 
-;cv_7.4 priklad 3
+;cv_7.5 priklad 3
 
 
 section .data
