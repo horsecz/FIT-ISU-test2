@@ -10,7 +10,7 @@ section .data
 ovflowstr dw "Overflow detected! Maximum ECX value is '46' (32bit number)!", 0
 string dw "Output: ",0
 section .bss
-    cisla resd 30
+    cisla resd 47
 
 section .text
 _main:
